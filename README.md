@@ -1,19 +1,18 @@
 # arduinode
 
-## Project setup
+## Initial node module
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### start backend server
+```
+node server.js OR nodemon server.js
+```
+
+### start frontend server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Pls upload sketch to board first!
